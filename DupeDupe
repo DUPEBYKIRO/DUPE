@@ -38,7 +38,7 @@ TextButton.Text = "EXECUTE"
 TextButton.TextColor3 = Color3.fromRGB(0, 84, 126)
 TextButton.TextSize = 50.000
 TextButton.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/DUPEBYKIRO/HAHA/main/PAKYU?token=GHSAT0AAAAAABUXQYFCBTVT32MPWVIA5D5AYUNVZLA",true))();
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/DUPEBYKIRO/HAHA12/main/GAGA",true))();
 end)
 
 TextLabel_2.Parent = Frame
