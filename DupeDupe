@@ -25,7 +25,7 @@ TextLabel.Parent = Frame
 TextLabel.BackgroundColor3 = Color3.fromRGB(38, 116, 116)
 TextLabel.Size = UDim2.new(0, 488, 0, 26)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "KiroHub V2"
+TextLabel.Text = "BOLD NI RAVEN"
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.TextSize = 30.000
 
@@ -46,6 +46,6 @@ TextLabel_2.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
 TextLabel_2.Position = UDim2.new(0, 0, 0.800000012, 0)
 TextLabel_2.Size = UDim2.new(0, 488, 0, 31)
 TextLabel_2.Font = Enum.Font.SourceSans
-TextLabel_2.Text = "MADE BY KIRO|THANKYOU FOR USING"
+TextLabel_2.Text = "MADE PORNHUB NI RAVEN"
 TextLabel_2.TextColor3 = Color3.fromRGB(85, 255, 127)
 TextLabel_2.TextSize = 34.000
